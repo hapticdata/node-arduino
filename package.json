@@ -5,7 +5,7 @@
     "main": "./lib/arduino",
     "contributors": [ 
         { "name": "Tobias Schneider", "email": "schneider@uxebu.com" },
-        { "name": "Chris Williams", "email": "voodootikigod@gmail.com" }
+        { "name": "Chris Williams", "email": "voodootikigod@gmail.com" },
         { "name": "Kyungwook, Park", "email": "parksama@gmail.com" }
     ],
     "repository": {
